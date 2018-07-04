@@ -1,7 +1,5 @@
-# Numpy-CNN
+# CNN from scratch using Numpy
 A numpy-only implementation of a Convolutional Neural Network, from the ground up.
-
-*Written by Alejandro Escontrela*
 
 ## Purpose
 
